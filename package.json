@@ -1,7 +1,7 @@
 {
-  "name": "so-card-sort",
+  "name": "OpenSavannah Card Sort Group Facilitation",
   "description": "A card sorting UX tool",
-  "author": "Sean Ockert <seanockert@gmail.com>",
+  "author": "Carl V. Lewis <hello@carlvlew.is>",
   "license": "MIT",
   "private": true,
   "scripts": {
